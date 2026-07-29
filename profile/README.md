@@ -1,6 +1,6 @@
 # Publicia Holdings LLC
 
-**Intellectual property holding company building the future across software, hardware, and AI.**
+**Intellectual property holding company helping our subsidiaries in building the future across software, hardware, and AI.**
 
 ---
 
